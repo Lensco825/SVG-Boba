@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+svg {
+    border: solid 2px red;
+    z-index: -1;
+}
+
+.boba-1 {
+    transform: translate(150px, 200px);
+    z-index: 5;
+}
+
+.cup {
+    filter: opacity(50%);
+    z-index: 1;
+}
