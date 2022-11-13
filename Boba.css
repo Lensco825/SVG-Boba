@@ -1,27 +1,21 @@
-html, body {
+tml, body {
     height: 100%;
     width: 100%;
 }
 
 
-svg {
-    border: solid 2px red;
-    z-index: -1;
-}
-
 
 .boba-1 {
-    transform: translate(150px, 200px);
-    z-index: 5;
+    transform: translate(125px, 200px);
 }
 
 .boba-2 {
-    transform: translate(155px, 170px);
+    transform: translate(155px, 180px);
 }
 
 .boba-3 {
-    transform: translate(140px, 155px);
-}
+    transform: translate(143px, 155px);
+    }
 
 .boba-4 {
     transform: translate(170px, 155px);
@@ -32,18 +26,18 @@ svg {
 }
 
 .boba-6 {
-    transform: translate(130px, 230px);
+    transform: translate(130px, 220px);
 }
 
 .boba-7 {
-    transform: translate(180px, 235px)  ;
+    transform: translate(180px, 235px);
 }
 .boba-8 {
     transform: translate(180px, 235px)  ;
 }
 
 .boba-9 {
-    transform: translate(120px, 120px)  ;
+    transform: translate(120px, 170px)  ;
 }
 
 .boba-10 {
@@ -55,7 +49,7 @@ svg {
 }
 
 .boba-12 {
-    transform: translate(150px, 235px)  ;
+    transform: translate(145px, 235px)  ;
 }
 .cup {
 
