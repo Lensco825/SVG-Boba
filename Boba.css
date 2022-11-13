@@ -9,12 +9,60 @@ svg {
     z-index: -1;
 }
 
+
 .boba-1 {
     transform: translate(150px, 200px);
     z-index: 5;
 }
 
+.boba-2 {
+    transform: translate(155px, 170px);
+}
+
+.boba-3 {
+    transform: translate(140px, 155px);
+}
+
+.boba-4 {
+    transform: translate(170px, 155px);
+}
+
+.boba-5 {
+    transform: translate(180px, 200px);
+}
+
+.boba-6 {
+    transform: translate(130px, 230px);
+}
+
+.boba-7 {
+    transform: translate(180px, 235px)  ;
+}
+.boba-8 {
+    transform: translate(180px, 235px)  ;
+}
+
+.boba-9 {
+    transform: translate(120px, 120px)  ;
+}
+
+.boba-10 {
+    transform: translate(140px, 120px)  ;
+}
+
+.boba-11 {
+    transform: translate(180px, 135px)  ;
+}
+
+.boba-12 {
+    transform: translate(150px, 235px)  ;
+}
 .cup {
+
     filter: opacity(50%);
     z-index: 1;
+}
+
+.cup:hover {
+    fill: aquamarine;
 }
